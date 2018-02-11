@@ -1,0 +1,4 @@
+GitHubで作成したリポジトリhello-worldをgit clone すると
+リポジトリ名hello-worldでフォルダが作成される。
+.gitフォルダはhello-world直下に作成される（hello-world\.git）。
+
